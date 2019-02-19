@@ -1,0 +1,1824 @@
+<!doctype html>
+<html class="no-js" lang="en" >
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="unsafe-url">
+    <meta name="google-site-verification" id="MetaWebMasterVerify" content="_BKCt60JDbUv1dQdr9-kaJrA5D_4s7gLqAS7d8OpKsw" />
+    <title>Online CFD Trading Platform | A Top CFD Provider
+ | MAX TRADES</title>
+        <meta name="description" content= #1 CFD Trading Platform (by number of new traders in 2017).  Trade the world’s most popular markets: Forex, Shares, Commodities, Indices, ETFs &amp; Options. Trade on popular instruments: Germany 30, Natural Gas and more! Attractive Leverage &amp; tight spreads. Free Mobile App
+" />
+
+        <meta name="keywords" content="Max Trades, Maxtrades, forex, CFDs, CFD, crypto trading, online trading, Forex trading, Oil trading, Gold trading, trading indexes, shares trading, commodities trading, trading platform, Cryptocurrencies day trading,trade stocks, trade forex, trade equities, trade commodities, trade shares, trade CFD, currency trading, trade securities." />
+
+    <link rel="stylesheet" href="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/CSS/style.min.css" />
+    <link rel="stylesheet" href="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/CSS/icons.css" />
+
+    <link rel="canonical" href="https://www.maxtrades.co.uk" />
+<link rel="alternate" hreflang="x-default" href="https://www.maxtrades.co.uk" />
+
+            <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+            <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&amp;subset=latin-ext" rel="stylesheet">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+            <script src="//rum-static.pingdom.net/pa-587c9d1971a183207f0f58cd.js" async></script>
+</head>
+<body class="home regulator-cysec country-pl lang-en Mac">
+
+<header id="resize-header" data-sticky-container>
+    <section class="callout sticky-header area" data-stick-to="top" data-sticky data-sticky-on="small" data-options="marginTop:0;">
+
+        <div class="row">
+            <div class="small-12 columns small-width">
+                <div class="row column top-bar header-bar">
+
+                    <div class="small-12 medium-2 columns">
+                        <div class="row column header-for-small">
+                            <div class="small-6 medium-12 columns logo">
+                                <a href="/" title="Maxtrades logo/homepage link">
+                                    <img src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Images/logo-Maxtrades-header.png" alt="Max Trades logo inside homepage link" />
+                                    <div class="slogan hide-for-small-only"> World's Trading Machine</div>
+                                </a>
+                            </div>
+                            <div class="small-6 columns buttons-for-small show-for-small-only">
+                                <div data-responsive-toggle="main-menu" data-hide-for="medium" class="button-menu">
+                                    <button id="mobile-menu-button" type="button" data-toggle="main-menu" class="menu-button">
+                                        <span class="icon icon-menu7 menu-mobile" title="Menu"></span>
+                                        <span class="show-for-sr">Menu</span>
+                                    </button>
+                                </div>
+                                <div data-responsive-toggle="search-menu" data-hide-for="medium" class="button-search">
+                                    <button id="mobile-search-open-dropdown" type="button" class="menu-button search-button" data-toggle="search-dropdown">
+                                        <span class="icon icon-search3" title="Search instrument"></span>
+                                        <span class="show-for-sr">Search instrument</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="small-12 medium-10 columns">
+                        <div class="row">
+                            <div class="small-12 medium-10 menu-box nav-box columns" id="main-menu">
+                                <div class="top-bar-left menu-links">
+                                    <ul class="vertical medium-horizontal menu inline dropdown" data-responsive-menu="drilldown medium-dropdown" data-auto-height="true" data-close-on-click="true" data-close-on-click-inside="false">
+                                        <li class="has-menu has-submenu">
+                                            <a href="javascript:void(0)"><span>Instruments Categories</span><span class="icon icon-arrow-down4 show-for-medium"></span></a>
+                                            <ul class="submenu menu open-menu">
+                                                    <li><a href = "/Trading/CryptoCurrencies" data-page="CryptoCurrencies"  > Crypto</a></li>
+                                                    <li><a href = "/Trading/Indices" data-page="Indices"  > Indices</a></li>
+                                                    <li><a href = "/Trading/Forex" data-page="Forex"  > Forex</a></li>
+                                                    <li><a href = "/Trading/Commodities" data-page="Commodities"  > Commodities</a></li>
+                                                    <li><a href = "/Trading/Stocks" data-page="Stocks"  > Shares</a></li>
+                                                    <li><a href = "/Trading/Options" data-page="Options"  > Options</a></li>
+                                                    <li><a href = "/Trading/Etfs" data-page="ETFs"  > ETFs</a></li>
+                                                    <li><a href = "/Instruments" data-page="AllInstruments"  > All Instruments</a></li>
+                                            </ul>
+                                        </li>
+                                            <li class="has-menu has-submenu">
+                                                <a href="javascript:void(0)"><span>Trading</span><span class="icon icon-arrow-down4 show-for-medium"></span></a>
+                                                <ul class="submenu menu open-menu">
+                                                        <li ><a href = "/ProfessionalAccount" data-page="ProfessionalAccount"  > Professional Trading</a></li>
+                                                        <li ><a href = "/Help/Offices" data-page="Offices"  > Global Offices</a></li>
+                                                        <li ><a href = "/Help/FeesCharges" data-page="FeesCharges"  > Fees & Charges</a></li>
+                                                        <li ><a href = "/FAQ" data-page="FAQ"  > FAQ</a></li>
+                                                        <li  class="separator" ><span>Tools</span></li>
+                                                        <li ><a href = "/Instruments/EconomicCalendar" data-page="EconomicCalendar"  > Economic Calendar</a></li>
+                                                        <li ><a href = "/Help/RiskManagement" data-page="RiskManagement"  > Risk Management</a></li>
+                                                        <li ><a href = "/Help/Alerts" data-page="Alerts"  > Alerts</a></li>
+                                                </ul>
+                                            </li>
+
+                                        <li class="has-menu has-submenu">
+                                            <a href="javascript:void(0)"><span>Company</span><span class="icon icon-arrow-down4 show-for-medium"></span></a>
+                                            <ul class="submenu menu open-menu">
+                                                    <li><a href = "/AboutUs" data-page="AboutUs"  > About Us</a></li>
+                                                    <li><a href = "https://www.Maxtrades.co.uk/" target="_blank" > Affiliates</a></li>
+                                                    <li><a href = "/Investors" data-page="Investors"  > Investor Relations</a></li>
+                                                    <li><a href = "http://www.maxtrades.co.uk/Docs/MaxtradesCY/EN/PrivacyPolicy.pdf"  > Cookies and Privacy</a></li>
+                                            </ul>
+                                        </li>
+<li class='link-trade show-for-small-only'><a href = "https://app.maxtrades.co.uk?hl=en&webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" data-start-trading data-inner="" > Start Trading</a></li>
+                                        <li class="has-icon">
+                                            <a href="https://app.maxtrades.co.uk/trade?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52&amp;page=login"><span class="icon icon-enter3"></span><span>Login</span></a>
+                                        </li>
+                                            <li class="has-menu has-submenu languages-item has-icon">
+                                                <a href="javascript:void(0)" class="lang-select" title="Choose language button">
+                                                    <span class="icon icon-earth2"></span>
+                                                    <span>English</span>
+                                                    <span class="icon icon-arrow-down4 show-for-medium"></span>
+                                                </a>
+                                                <ul class="submenu menu open-menu open-lang-menu">
+                                                        <li><a href="/">Engl
+                                                </ul>
+                                            </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="small-12 medium-1 columns search-box">
+                                <button id="search-open-dropdown" type="button" class="button search-button hide-for-small-only" data-toggle="search-dropdown">
+                                    <span class="icon icon-search3" title="Search instrument"></span>
+                                    <span class="show-for-sr">Search instrument</span>
+                                </button>
+                                <div class="dropdown-pane search animate" id="search-dropdown" data-dropdown data-parent-class="search-box" data-close-on-click="true">
+                                    <div class="row column search-wrap">
+                                        <div class="small-12 columns input-search">
+                                            <label class="show-for-sr" for="searchInstruments">Search instruments by name:</label>
+                                            <input type="text" autocomplete="off" placeholder="Search instrument" id="searchInstruments" />
+                                        </div>
+                                    </div>
+                                    <div class="row column results-wrap">
+                                        <div class="small-12 columns results-list" id="results"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="link-trade-wrapper medium-1 columns show-for-large shrink">
+                                <a href = "https://app.maxtrades.co.uk?hl=en&webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" data-start-trading data-inner="" > Start Trading</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <div class="anchor-box"><a id="top" class="anchor"></a></div>
+</header>
+
+    <section class="callout large area hide-for-medium epc-section hide" data-epc-banner>
+        <div class="row">
+            <div class="small-12 columns epc-banner-small">
+                <a href="javascript:void(0)">
+                    <span>Professional Account</span>
+                    <span class="button">Learn More</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+
+    
+<section class="callout large area main-section">
+    <div class="row small-center">
+        <div class="small-12 large-6 columns main-content">
+            <h1>Trade CFDs on Shares, Indices and Forex </h1>
+            <h2 class="hide-for-small-only">Reliable, Simple, Innovative. <br />Join thousands who have already traded with Max Trgades.</h2>
+            <div class="row start-trading-box">
+                <div class="columns text-center start-trading">
+                    
+<div class="cta-wrap">
+    
+    <a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large cta" data-start-trading data-inner="" >Start Trading Now</a>
+</div>
+
+    <div>or try a <a href = "https://app.maxtrades.co.uk/NewUser?IsRealMode=False&forceDisplay=True&hl=en&webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="link">FREE Demo Account</a></div>
+
+                </div>
+            </div>
+            
+    <div class="row show-for-small-only risk-for-small small-center">
+        <div class="small-12 columns">
+            <p>CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. <strong>80.6% of retail investor accounts lose money when trading CFDs with this provider.</strong> You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.</p>
+        </div>
+    </div>
+
+        </div>
+        <div class="small-10 small-offset-1 medium-10 medium-offset-1 large-6 large-offset-0 columns main-image home-anim">
+            <img src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Images/devices-ios-black.png" alt="iPad and iPhone showing the Maxtrades trading platform." class="show-for-small-only" /> 
+            <div class="currency">
+                <img src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Images/curs/PLN.png" alt="Poland Zloty currency symbol" class="currency-icon" />
+                <img src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Images/flags/flag-pl.png" alt="Flag of Poland" class="flag" />
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<div class="page-sections">
+<section class="callout large area content">
+    <div class="row">
+        <div class="small-12 large-6 columns">
+            <h3>Get More</h3>
+            <div class="section-text"><p>We offer the complete package:</p>
+
+<ul class="bullet-plus">
+<li>Tight spreads</li>
+<li> <a href="/Help/FeesCharges">No commissions</a></li>
+<li>Leverage of up to 1:30 for <a href="https://app.maxtrades.co.uk?hl=en&webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52">Retail accounts</a></li>
+<li>Leverage of up to 1:300 for <a href="/ProfessionalAccount">Professional accounts</a></li>
+<li>Fast and reliable order execution</li>
+
+<li><a href="/Help/Offices">Global Offices & Account Features</a></li></ul></div>
+            <a href="/Instruments" class="button large hollow">Learn more</a>
+        </div>
+        <div class="small-12 large-6 columns market-tools-table">
+            
+<div class="row feeds-wrap">
+    <div class="small-12 large-12 columns feeds-tab">
+        
+<div class="row column">
+    <div class="small-12 large-12 columns table-input-search">
+        <label class="show-for-sr" for="searchInstrumentsInWidget">Search instruments by name:</label>
+        <input type="text" autocomplete="off" placeholder="Search instrument" id="searchInstrumentsInWidget">
+        <div class="row column results-box-table" id="resultsInWidget">
+            <div class="small-12 columns"></div>
+        </div>
+    </div>
+</div>
+
+    <div class="row">
+        <div class="small-12 large-12 columns tabs-8">
+            <nav>
+                <ul role="tablist">
+                    <li role="tab"><a data-tab-id="tab_MostPopular" href="javascript:void(0);">Most Popular</a></li>
+                        <li role="tab" >
+                            
+                            <span class="narrow"><a data-tab-id="risersAndFallers" href="javascript:void(0);">Risers &amp; Fallers</a></span>
+                        </li>
+
+                        <li role="tab"><a data-tab-id="tab_Stocks" href="javascript:void(0);">Shares</a></li>
+                        <li role="tab"><a data-tab-id="tab_Commodities" href="javascript:void(0);">Commodities</a></li>
+
+                        <li role="tab"><a data-tab-id="tab_Indices" href="javascript:void(0);">Indices</a></li>
+                        <li role="tab"><a data-tab-id="tab_Forex" href="javascript:void(0);">Forex</a></li>
+
+                </ul>
+            </nav>
+        </div>
+    </div>
+<div class="row">
+    <div id="tabContainer" class="small-12 large-12 columns tab-container">
+            <div data-tab-id="tab_MostPopular" data-loaded="false" class="tabPanel MostPopular first" role="tabpanel">
+<input type="hidden"  data-instruments="10 ,11 ,2242 ,2 ,18 ,4 ,19 ,3224" data-json='[{&quot;InstrumentId&quot;:2,&quot;BuyPrice&quot;:1.14102,&quot;SellPrice&quot;:1.14096,&quot;ChangePercent&quot;:-0.2},{&quot;InstrumentId&quot;:4,&quot;BuyPrice&quot;:1.30817,&quot;SellPrice&quot;:1.30808,&quot;ChangePercent&quot;:0.12},{&quot;InstrumentId&quot;:10,&quot;BuyPrice&quot;:53.96,&quot;SellPrice&quot;:53.94,&quot;ChangePercent&quot;:1.2},{&quot;InstrumentId&quot;:11,&quot;BuyPrice&quot;:1310.34,&quot;SellPrice&quot;:1310.11,&quot;ChangePercent&quot;:-0.1},{&quot;InstrumentId&quot;:18,&quot;BuyPrice&quot;:2655.12,&quot;SellPrice&quot;:2654.62,&quot;ChangePercent&quot;:0.55},{&quot;InstrumentId&quot;:19,&quot;BuyPrice&quot;:6717.48,&quot;SellPrice&quot;:6715.78,&quot;ChangePercent&quot;:1.17},{&quot;InstrumentId&quot;:2242,&quot;BuyPrice&quot;:2362,&quot;SellPrice&quot;:2360,&quot;ChangePercent&quot;:-0.71},{&quot;InstrumentId&quot;:3224,&quot;BuyPrice&quot;:1.3975,&quot;SellPrice&quot;:1.3940,&quot;ChangePercent&quot;:1.72}]' />
+<table id="tab_MostPopular">
+            <tr class="odd inst_10" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/CL" >Oil</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/cl?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/cl?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_11" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/XAU" >Gold</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/xau?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/xau?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_2242" data-precision='0'>
+                <th class="instName"><span><a href="/Instruments/WIG20" >Poland 20</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/wig20?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/wig20?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_2" data-precision='5'>
+                <th class="instName"><span><a href="/Instruments/EURUSD" >EUR/USD</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/eurusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/eurusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_18" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/ES" >USA 500</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/es?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/es?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_4" data-precision='5'>
+                <th class="instName"><span><a href="/Instruments/GBPUSD" >GBP/USD</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/gbpusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/gbpusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_19" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/NQ" >US-TECH 100</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/nq?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/nq?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_3224" data-precision='4'>
+                <th class="instName"><span><a href="/Instruments/RB" >Gasoline</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/rb?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/rb?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+
+</table>
+            </div>
+            <div data-tab-id="tab_Stocks" data-loaded="false" class="tabPanel Stocks " role="tabpanel">
+<input type="hidden"  data-instruments="2263 ,3936 ,2259 ,2883 ,741 ,53 ,1987 ,52" data-json='[{&quot;InstrumentId&quot;:52,&quot;BuyPrice&quot;:206.10,&quot;SellPrice&quot;:205.80,&quot;ChangePercent&quot;:0.91},{&quot;InstrumentId&quot;:53,&quot;BuyPrice&quot;:150.22,&quot;SellPrice&quot;:149.78,&quot;ChangePercent&quot;:-0.4},{&quot;InstrumentId&quot;:741,&quot;BuyPrice&quot;:61.21,&quot;SellPrice&quot;:61.03,&quot;ChangePercent&quot;:-0.36},{&quot;InstrumentId&quot;:1987,&quot;BuyPrice&quot;:20.95,&quot;SellPrice&quot;:20.65,&quot;ChangePercent&quot;:1.17},{&quot;InstrumentId&quot;:2259,&quot;BuyPrice&quot;:2.31,&quot;SellPrice&quot;:2.29,&quot;ChangePercent&quot;:-1.71},{&quot;InstrumentId&quot;:2263,&quot;BuyPrice&quot;:362.87,&quot;SellPrice&quot;:361.54,&quot;ChangePercent&quot;:-2.37},{&quot;InstrumentId&quot;:2883,&quot;BuyPrice&quot;:26.29,&quot;SellPrice&quot;:26.11,&quot;ChangePercent&quot;:-1.09},{&quot;InstrumentId&quot;:3936,&quot;BuyPrice&quot;:193.27,&quot;SellPrice&quot;:192.92,&quot;ChangePercent&quot;:1.58}]' />
+<table id="tab_Stocks">
+            <tr class="odd inst_2263" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/SPL:WSE" >Santander Bank Polska</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/spl:wse?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/spl:wse?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_3936" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/CDR:WSE" >CD Projekt</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/cdr:wse?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/cdr:wse?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_2259" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/TPE:WSE" >Tauron</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/tpe:wse?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/tpe:wse?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_2883" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/ZAL.DE" >Zalando</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/zal.de?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/zal.de?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_741" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/RNO.PA" >Renault</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/rno.pa?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/rno.pa?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_53" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/VOW.DE" >Volkswagen</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/vow.de?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/vow.de?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_1987" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/S92.DE" >SMA Solar Technology</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/s92.de?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/s92.de?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_52" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/ADS.DE" >Adidas</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ads.de?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ads.de?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+
+</table>
+            </div>
+            <div data-tab-id="tab_Commodities" data-loaded="false" class="tabPanel Commodities " role="tabpanel">
+<input type="hidden"  data-instruments="10 ,3224 ,123 ,2265 ,1462 ,101 ,12 ,116" data-json='[{&quot;InstrumentId&quot;:10,&quot;BuyPrice&quot;:53.96,&quot;SellPrice&quot;:53.94,&quot;ChangePercent&quot;:1.2},{&quot;InstrumentId&quot;:12,&quot;BuyPrice&quot;:15.917,&quot;SellPrice&quot;:15.864,&quot;ChangePercent&quot;:0.51},{&quot;InstrumentId&quot;:101,&quot;BuyPrice&quot;:815.60,&quot;SellPrice&quot;:814.40,&quot;ChangePercent&quot;:-0.1},{&quot;InstrumentId&quot;:116,&quot;BuyPrice&quot;:12.58,&quot;SellPrice&quot;:12.55,&quot;ChangePercent&quot;:-0.99},{&quot;InstrumentId&quot;:123,&quot;BuyPrice&quot;:2.877,&quot;SellPrice&quot;:2.873,&quot;ChangePercent&quot;:-0.96},{&quot;InstrumentId&quot;:1462,&quot;BuyPrice&quot;:2.7635,&quot;SellPrice&quot;:2.7615,&quot;ChangePercent&quot;:1.38},{&quot;InstrumentId&quot;:2265,&quot;BuyPrice&quot;:2178,&quot;SellPrice&quot;:2174,&quot;ChangePercent&quot;:-1.76},{&quot;InstrumentId&quot;:3224,&quot;BuyPrice&quot;:1.3975,&quot;SellPrice&quot;:1.3940,&quot;ChangePercent&quot;:1.72}]' />
+<table id="tab_Commodities">
+            <tr class="odd inst_10" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/CL" >Oil</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/cl?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/cl?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_3224" data-precision='4'>
+                <th class="instName"><span><a href="/Instruments/RB" >Gasoline</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/rb?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/rb?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_123" data-precision='3'>
+                <th class="instName"><span><a href="/Instruments/NG" >Natural Gas</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ng?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ng?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.plus500.com?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_2265" data-precision='0'>
+                <th class="instName"><span><a href="/Instruments/CC" >Cocoa</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/cc?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/cc?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_1462" data-precision='4'>
+                <th class="instName"><span><a href="/Instruments/HG" >Copper</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/hg?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/hg?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_101" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/PL" >Platinum</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/pl?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/pl?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_12" data-precision='3'>
+                <th class="instName"><span><a href="/Instruments/XAG" >Silver</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/xag?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/xag?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_116" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/SB" >Sugar</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/sb?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/sb?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+
+</table>
+            </div>
+            <div data-tab-id="tab_Crypto" data-loaded="false" class="tabPanel Crypto " role="tabpanel">
+<input type="hidden"  data-instruments="3406 ,3420 ,3407 ,2270 ,3313 ,3234 ,3311 ,3241" data-json='[{&quot;InstrumentId&quot;:2270,&quot;BuyPrice&quot;:31.68,&quot;SellPrice&quot;:31.18,&quot;ChangePercent&quot;:2.34},{&quot;InstrumentId&quot;:3234,&quot;BuyPrice&quot;:0.3153,&quot;SellPrice&quot;:0.3093,&quot;ChangePercent&quot;:9.23},{&quot;InstrumentId&quot;:3241,&quot;BuyPrice&quot;:44.99,&quot;SellPrice&quot;:42.98,&quot;ChangePercent&quot;:2.82},{&quot;InstrumentId&quot;:3311,&quot;BuyPrice&quot;:0.2676,&quot;SellPrice&quot;:0.2497,&quot;ChangePercent&quot;:3.38},{&quot;InstrumentId&quot;:3313,&quot;BuyPrice&quot;:7.09,&quot;SellPrice&quot;:6.94,&quot;ChangePercent&quot;:1.08},{&quot;InstrumentId&quot;:3406,&quot;BuyPrice&quot;:3453.02,&quot;SellPrice&quot;:3415.04,&quot;ChangePercent&quot;:1.09},{&quot;InstrumentId&quot;:3407,&quot;BuyPrice&quot;:108.64,&quot;SellPrice&quot;:107.04,&quot;ChangePercent&quot;:3.7},{&quot;InstrumentId&quot;:3420,&quot;BuyPrice&quot;:0.03156,&quot;SellPrice&quot;:0.03128,&quot;ChangePercent&quot;:2.61}]' />
+<table id="tab_Crypto">
+            <tr class="odd inst_3406" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/BTCUSD" >Bitcoin</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/btcusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/btcusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_3420" data-precision='5'>
+                <th class="instName"><span><a href="/Instruments/ETHBTC" >Ethereum / Bitcoin</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ethbtc?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ethbtc?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_3407" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/ETHUSD" >Ethereum</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ethusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ethusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_2270" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/LTCUSD" >Litecoin</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ltcusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ltcusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_3313" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/NEOUSD" >NEO</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/neousd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/neousd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_3234" data-precision='4'>
+                <th class="instName"><span><a href="/Instruments/XRPUSD" >Ripple XRP</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/xrpusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/xrpusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_3311" data-precision='4'>
+                <th class="instName"><span><a href="/Instruments/IOTUSD" >IOTA</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/iotusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/iotusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_3241" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/XMRUSD" >Monero</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/xmrusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/xmrusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+
+</table>
+            </div>
+            <div data-tab-id="tab_Indices" data-loaded="false" class="tabPanel Indices " role="tabpanel">
+<input type="hidden"  data-instruments="3017 ,95 ,18 ,3238 ,3869 ,3438 ,19 ,98" data-json='[{&quot;InstrumentId&quot;:18,&quot;BuyPrice&quot;:2655.12,&quot;SellPrice&quot;:2654.62,&quot;ChangePercent&quot;:0.55},{&quot;InstrumentId&quot;:19,&quot;BuyPrice&quot;:6717.48,&quot;SellPrice&quot;:6715.78,&quot;ChangePercent&quot;:1.17},{&quot;InstrumentId&quot;:95,&quot;BuyPrice&quot;:20707,&quot;SellPrice&quot;:20698,&quot;ChangePercent&quot;:0.4},{&quot;InstrumentId&quot;:98,&quot;BuyPrice&quot;:5835,&quot;SellPrice&quot;:5832,&quot;ChangePercent&quot;:0.11},{&quot;InstrumentId&quot;:3017,&quot;BuyPrice&quot;:11199.08,&quot;SellPrice&quot;:11198.42,&quot;ChangePercent&quot;:-0.1},{&quot;InstrumentId&quot;:3238,&quot;BuyPrice&quot;:4966.23,&quot;SellPrice&quot;:4965.28,&quot;ChangePercent&quot;:0.82},{&quot;InstrumentId&quot;:3438,&quot;BuyPrice&quot;:3153,&quot;SellPrice&quot;:3152,&quot;ChangePercent&quot;:0.27},{&quot;InstrumentId&quot;:3869,&quot;BuyPrice&quot;:6884.50,&quot;SellPrice&quot;:6883.50,&quot;ChangePercent&quot;:1.68}]' />
+<table id="tab_Indices">
+            <tr class="odd inst_3017" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/FDAX" >Germany 30</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/fdax?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/fdax?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_95" data-precision='0'>
+                <th class="instName"><span><a href="/Instruments/NIY" >Japan 225</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/niy?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/niy?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_18" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/ES" >USA 500</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/es?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/es?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_3238" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/FCE" >France 40</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/fce?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/fce?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_3869" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/UK100" >UK 100</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/uk100?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/uk100?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_3438" data-precision='0'>
+                <th class="instName"><span><a href="/Instruments/FESX" >Europe 50</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/fesx?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/fesx?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_19" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/NQ" >US-TECH 100</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/nq?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/nq?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_98" data-precision='0'>
+                <th class="instName"><span><a href="/Instruments/SPI200" >ASX 200</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/spi200?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/spi200?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+
+</table>
+            </div>
+            <div data-tab-id="tab_Forex" data-loaded="false" class="tabPanel Forex " role="tabpanel">
+<input type="hidden"  data-instruments="2 ,55 ,56 ,4 ,16 ,28 ,27 ,47" data-json='[{&quot;InstrumentId&quot;:2,&quot;BuyPrice&quot;:1.14102,&quot;SellPrice&quot;:1.14096,&quot;ChangePercent&quot;:-0.2},{&quot;InstrumentId&quot;:4,&quot;BuyPrice&quot;:1.30817,&quot;SellPrice&quot;:1.30808,&quot;ChangePercent&quot;:0.12},{&quot;InstrumentId&quot;:16,&quot;BuyPrice&quot;:109.721,&quot;SellPrice&quot;:109.714,&quot;ChangePercent&quot;:0.3},{&quot;InstrumentId&quot;:27,&quot;BuyPrice&quot;:125.193,&quot;SellPrice&quot;:125.178,&quot;ChangePercent&quot;:0.1},{&quot;InstrumentId&quot;:28,&quot;BuyPrice&quot;:143.538,&quot;SellPrice&quot;:143.515,&quot;ChangePercent&quot;:0.42},{&quot;InstrumentId&quot;:47,&quot;BuyPrice&quot;:0.68264,&quot;SellPrice&quot;:0.68246,&quot;ChangePercent&quot;:-0.09},{&quot;InstrumentId&quot;:55,&quot;BuyPrice&quot;:3.7590,&quot;SellPrice&quot;:3.7570,&quot;ChangePercent&quot;:0.1},{&quot;InstrumentId&quot;:56,&quot;BuyPrice&quot;:4.2889,&quot;SellPrice&quot;:4.2866,&quot;ChangePercent&quot;:-0.13}]' />
+<table id="tab_Forex">
+            <tr class="odd inst_2" data-precision='5'>
+                <th class="instName"><span><a href="/Instruments/EURUSD" >EUR/USD</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/eurusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/eurusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_55" data-precision='4'>
+                <th class="instName"><span><a href="/Instruments/USDPLN" >USD/PLN</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/usdpln?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/usdpln?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_56" data-precision='4'>
+                <th class="instName"><span><a href="/Instruments/EURPLN" >EUR/PLN</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/eurpln?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/eurpln?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_4" data-precision='5'>
+                <th class="instName"><span><a href="/Instruments/GBPUSD" >GBP/USD</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.pmaxtrades.co.uk/buy/gbpusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/gbpusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_16" data-precision='3'>
+                <th class="instName"><span><a href="/Instruments/USDJPY" >USD/JPY</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/usdjpy?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/usdjpy?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_28" data-precision='3'>
+                <th class="instName"><span><a href="/Instruments/GBPJPY" >GBP/JPY</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/gbpjpy?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/gbpjpy?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_27" data-precision='3'>
+                <th class="instName"><span><a href="/Instruments/EURJPY" >EUR/JPY</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/eurjpy?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/eurjpy?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_47" data-precision='5'>
+                <th class="instName"><span><a href="/Instruments/NZDUSD" >NZD/USD</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/nzdusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/nzdusd?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+
+</table>
+            </div>
+            <div data-tab-id="tab_Options" data-loaded="false" class="tabPanel Options " role="tabpanel">
+<input type="hidden"  data-instruments="1008675 ,1008619 ,1008475 ,1008473 ,1008471 ,1008469 ,1008493 ,1008786" data-json='[{&quot;InstrumentId&quot;:1008469,&quot;BuyPrice&quot;:206.86,&quot;SellPrice&quot;:197.14,&quot;ChangePercent&quot;:67.29},{&quot;InstrumentId&quot;:1008471,&quot;BuyPrice&quot;:168.25,&quot;SellPrice&quot;:155.74,&quot;ChangePercent&quot;:79},{&quot;InstrumentId&quot;:1008473,&quot;BuyPrice&quot;:131.63,&quot;SellPrice&quot;:122.36,&quot;ChangePercent&quot;:93.89},{&quot;InstrumentId&quot;:1008475,&quot;BuyPrice&quot;:98.31,&quot;SellPrice&quot;:94.20,&quot;ChangePercent&quot;:120.01},{&quot;InstrumentId&quot;:1008493,&quot;BuyPrice&quot;:268.70,&quot;SellPrice&quot;:242.30,&quot;ChangePercent&quot;:65.37},{&quot;InstrumentId&quot;:1008619,&quot;BuyPrice&quot;:71.05,&quot;SellPrice&quot;:67.45,&quot;ChangePercent&quot;:140.87},{&quot;InstrumentId&quot;:1008675,&quot;BuyPrice&quot;:48.98,&quot;SellPrice&quot;:46.52,&quot;ChangePercent&quot;:169.01},{&quot;InstrumentId&quot;:1008786,&quot;BuyPrice&quot;:2.66,&quot;SellPrice&quot;:2.60,&quot;ChangePercent&quot;:64.38}]' />
+<table id="tab_Options">
+            <tr class="odd inst_1008675" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/FTSEFEB19C7000" >Call 7000 | UK 100</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ftsefeb19c7000?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ftsefeb19c7000?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_1008619" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/FTSEFEB19C6950" >Call 6950 | UK 100</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ftsefeb19c6950?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ftsefeb19c6950?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_1008475" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/FTSEFEB19C6900" >Call 6900 | UK 100</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ftsefeb19c6900?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ftsefeb19c6900?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_1008473" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/FTSEFEB19C6850" >Call 6850 | UK 100</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ftsefeb19c6850?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ftsefeb19c6850?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_1008471" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/FTSEFEB19C6800" >Call 6800 | UK 100</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ftsefeb19c6800?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ftsefeb19c6800?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_1008469" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/FTSEFEB19C6750" >Call 6750 | UK 100</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ftsefeb19c6750?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ftsefeb19c6750?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_1008493" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/FTSEFEB19C6700" >Call 6700 | UK 100</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ftsefeb19c6700?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ftsefeb19c6700?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_1008786" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/AEXFEB19C525" >Call 525 | Netherlands 25</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/aexfeb19c525?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/aexfeb19c525?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+
+</table>
+            </div>
+                    <div data-tab-id="risersAndFallers" data-loaded="false" class="tabPanel risersAndFallers" role="tabpanel">
+<input type="hidden"  data-instruments="1008675 ,833 ,1182 ,1221 ,1674 ,1915 ,815 ,3955" data-json='[{&quot;InstrumentId&quot;:815,&quot;BuyPrice&quot;:260.05,&quot;SellPrice&quot;:259.65,&quot;ChangePercent&quot;:-7.16},{&quot;InstrumentId&quot;:833,&quot;BuyPrice&quot;:101.21,&quot;SellPrice&quot;:100.74,&quot;ChangePercent&quot;:17.17},{&quot;InstrumentId&quot;:1182,&quot;BuyPrice&quot;:14.07,&quot;SellPrice&quot;:13.93,&quot;ChangePercent&quot;:16.57},{&quot;InstrumentId&quot;:1221,&quot;BuyPrice&quot;:27.13,&quot;SellPrice&quot;:27.01,&quot;ChangePercent&quot;:11.4},{&quot;InstrumentId&quot;:1674,&quot;BuyPrice&quot;:11.33,&quot;SellPrice&quot;:11.22,&quot;ChangePercent&quot;:-27.26},{&quot;InstrumentId&quot;:1915,&quot;BuyPrice&quot;:135.60,&quot;SellPrice&quot;:135.06,&quot;ChangePercent&quot;:-9.99},{&quot;InstrumentId&quot;:3955,&quot;BuyPrice&quot;:1060.94,&quot;SellPrice&quot;:1059.10,&quot;ChangePercent&quot;:-3.12},{&quot;InstrumentId&quot;:1008675,&quot;BuyPrice&quot;:48.98,&quot;SellPrice&quot;:46.52,&quot;ChangePercent&quot;:169.01}]' />
+<table id="risersAndFallersContainer">
+            <tr class="odd inst_1008675" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/FTSEFEB19C7000" >Call 7000 | UK 100</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ftsefeb19c7000?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ftsefeb19c7000?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_833" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/GETI-B.ST" >Getinge</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/geti-b.st?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/geti-b.st?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_1182" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/PCG" >PG&amp;E</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/pcg?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/pcg?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_1221" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/XRX" >Xerox</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/xrx?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/xrx?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_1674" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/GME" >GameStop</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/gme?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/gme?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_1915" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/NCC-B.ST" >NCC</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/ncc-b.st?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/ncc-b.st?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class="odd inst_815" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/LONN.VX" >Lonza</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/lonn.vx?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/lonn.vx?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+            <tr class=" inst_3955" data-precision='2'>
+                <th class="instName"><span><a href="/Instruments/BGCANG" >Cannabis Stock Index</a>
+                </span></th>
+                <td class="sell wide"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/buy/bgcang?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Sell</a></td>
+
+                <td class="buy"><span></span></td>
+                <td class="wide"><a href="https://app.maxtrades.co.uk/sell/bgcang?webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52"  class="button large hollow tabled">Buy</a></td>
+
+                <td class="change"><span></span></td>
+                <td class="trade"><a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large hollow tabled narrow">Trade</a></td>
+            </tr>
+
+</table>
+            </div>
+    </div>
+</div>
+
+   
+    </div>
+</div>
+    <div class="row column">
+        <ul>
+            <li>Max Trades is mainly compensated for its services through the Bid/Ask spread.</li>
+        </ul>
+    </div>
+
+        </div>
+    </div>
+</section>
+<section class="callout large area content">
+    <div class="row">
+		<div class="small-12 large-6 columns">
+			<h3>Take Control</h3>
+			<div class="section-text"><p>Use our advanced tools and features to gain control on your account:</p>
+
+<ul class="bullet-plus">
+
+<li>Stop Limit / Stop Loss / Trailing Stop</li>
+
+<li>Guaranteed Stop</li>
+<li>FREE email & push notifications on market events </li>
+
+<li>Alerts on price movements, Change % & Traders’ Sentiments</li>
+
+</ul></div>
+			<div>
+				<a href="/Help/RiskManagement" class="button large hollow">Go to risk management</a>
+                <a href="/Help/Alerts" class="button large hollow video">Go to alerts<span class="icon icon-bell-o"></span></a>
+			</div>
+		</div>
+        <div class="small-10 small-offset-1 medium-8 medium-offset-2 large-6 large-offset-0 columns cut-bootom-large image-flow device-phone">
+            <img src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Images/devices-phones-info.png" alt="Two mobile phones showing the Plus500 trading platform" class="image-item move hide-for-small-only image1" id="image1" />
+            <img src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Images/devices-phones.png" alt="Two mobile phones showing the Plus500 trading platform" class="show-for-small-only" />
+        </div>
+    </div>
+    <div class="row">
+        <a id="animate-image1"></a>
+    </div>
+</section>
+
+<section class="callout large area content" id="explore-area">
+    <div class="row">
+        <div class="small-12 large-6 columns">
+            <h3>Explore Markets</h3>
+            <div class="section-text"><p>Trade the world’s most popular markets and explore endless trading options. We offer thousands of financial instruments, FREE real time quotes and online support. 
+
+<div class="item-cnbs-link">
+<a href="/Trading/Cannabis" class="item-pdf-link"><span class="icon icon-cannabis"></span><span>NEW: Check out our Cannabis Shares</span</a> </div>
+
+</p></div>
+            <a href="/Instruments" class="button large hollow">Learn more</a>
+            <a data-open="watch-video" class="button large hollow video">Watch Video<span class="icon icon-play3"></span></a>
+        </div>
+        <div class="small-10 small-offset-1 medium-8 medium-offset-2 large-6 large-offset-0 columns image-flow image-explore">
+            <img src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Images/devices-ios-black.png" alt="iPad and iPhone showing the Max Trades trading platform." class="image-item move hide-for-small-only image2" id="image2" />
+            <img src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Images/devices-laptop.png" alt="Laptop with screenshot of Maxtrades application" class="show-for-small-only" />
+        </div>
+    </div>
+    <div class="row">
+        <a id="animate-image2"></a>
+    </div>
+        <div class="reveal reveal-modal small video-modal" id="watch-video" data-reveal>
+            <div class="responsive-embed widescreen">
+                <iframe class="modal-player explore-player" id="watch-video-iframe" allowfullscreen="allowfullscreen" title="YouTube video player with maxtrades Demonstration " data-src="https://www.youtube.com/embed/XVJHaqWs3FY?enablejsapi=1" width="550" height="315"></iframe>
+            </div>
+            <button class="close-button" data-close aria-label="Tap to close" type="button">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+</section>
+
+<section class="callout large area colored">
+    <div class="row">
+        <div class="large-12 columns medium-text-center">
+            <div class="row text-center">
+                <div class="large-8 large-offset-2 columns">
+                    <h3>Trade with Trust</h3>
+                </div>
+            </div>
+            <div class="row info-group  ">
+                    <div class="small-12 medium-6 large-expand columns">
+                        <span class="icon icon-certificate"></span>
+                        <p>MaxtradesCY Ltd is authorised and regulated by the Cyprus Securities and Exchange Commission (Licence&nbsp;No.&nbsp;286/17)</p>
+                    </div>
+                    <div class="small-12 medium-6 large-expand columns">
+                        <span class="icon icon-library2"></span>
+                        <p>Max Trades(uk) Ltd is a UK FTSE 250 company listed on the London Stock Exchange’s Main Market for Listed Companies</p>
+                    </div>
+                    <div class="small-12 medium-6 large-expand columns">
+                        <span class="icon icon-safe"></span>
+                        <p>Your funds are kept safe in segregated bank accounts</p>
+                    </div>
+                    <div class="small-12 medium-6 large-expand columns">
+                        <span class="icon icon-lock2"></span>
+                        <p>Secured by SSL</p>
+                    </div>
+                    <div class="small-12 medium-6 large-expand columns">
+                        <span class="icon icon-file-check"></span>
+                        <p>MiFID investment firm</p>
+                    </div>
+
+                
+            </div>
+            
+                <div class="row text-center">
+                    <div class="large-8 large-offset-2 columns">
+                        <a href="/AboutUs" class="button large hollow centered">Read more about us</a>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</section><section class="callout large area content colored colored-atletico">
+    <div class="row">
+        <div class="small-12 large-6 columns small-center">
+    </div>
+    <div class="row">
+        <a id="animate-image3"></a>
+    </div>
+</section>
+
+<section class="callout large area">
+    <div class="row">
+        <div class="large-12 columns text-center">
+            <div class="row">
+                <div class="large-10 large-offset-1 columns">
+                    <h4>Max trades in 2017</h4>
+                </div>
+            </div>
+            <div class="row info-group numbers">
+                <div id="run-numbers"></div>
+                    <div class="small-12 medium-6 large-4 columns circle-item">
+                        <div class="circle-details count-box">
+                            <div>
+                                <span class="count" data-index="1">37</span>
+                                <span class="more" data-index="1">+</span>
+                            </div>
+                            <span class="type">Million</span>
+                            <span class="title">Positions opened</span>
+                        </div>
+                    </div>
+                    <div class="small-12 medium-6 large-4 columns circle-item">
+                        <div class="circle-details count-box">
+                            <div>
+                                <span class="count" data-index="2">317</span>
+                                <span class="more" data-index="2">+</span>
+                            </div>
+                            <span class="type">Thousand</span>
+                            <span class="title">Active customers</span>
+                        </div>
+                    </div>
+                    <div class="small-12 medium-6 large-4 columns circle-item">
+                        <div class="circle-details count-box">
+                            <div>
+                                <span class="count" data-index="3">1270</span>
+                                <span class="more" data-index="3">+</span>
+                            </div>
+                            <span class="type">Billion$</span>
+                            <span class="title">Traded value</span>
+                        </div>
+                    </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+    <section class="callout large area">
+    <div class="row">
+        <div class="large-12 columns">
+            <div class="row">
+                <div class="large-10 large-offset-1 columns text-center">
+                    <h4>Trading at your fingertips</h4>
+                    <p>Trade anywhere, anytime using our various platforms.</p>
+                    
+                    
+                </div>
+            </div>
+            <div class="row small-up-2 medium-up-3 large-up-5 platforms">
+                    <div class="columns item">
+                        <a href="https://itunes.apple.com/lv/app/plus500/id417962622?mt=8&amp;ls=1" class="button">
+                            <span class="icon icon-appleinc"></span>
+                            <span>iPhone / iPad</span>
+                        </a>
+                    </div>
+                <div class="columns item">
+                    <a href="https://play.google.com/store/apps/details?id=com.Plus500&amp;hl=en&amp;referrer=https%3a%2f%2fwww.plus500.com%2f%3fwebvisitid%3d0885a7d1-c391-4d10-a36a-430002eb2a52" class="button">
+                        <span class="icon icon-android"></span>
+                        <span>Android App</span>
+                    </a>
+                </div>
+                <div class="columns item">
+                    <a href="https://www.microsoft.com/store/apps/9wzdncrdt2kf" class="button">
+                        <span class="icon icon-mobile2"></span>
+                        <span>Windows Phone App</span>
+                    </a>
+                </div>
+                
+                <div class="columns item">
+                    <a href="https://www.microsoft.com/store/apps/9wzdncrdt2kf" class="button">
+                        <span class="icon icon-windows8"></span>
+                        <span>Windows 10 Trader</span>
+                    </a>
+                </div>
+                <div class="columns item">
+                    <a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button">
+                        <span class="icon browser">
+                            <span class="icon-chrome"></span>
+                            <span class="icon-firefox"></span>
+                            <span class="icon-safari"></span>
+                            <span class="icon-edge"></span>
+                        </span>
+                        <span>Web Trader</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+    
+<section class="callout large text-center area button-start-box">
+    <div class="row">
+        <div class="large-12 columns text-center">
+            <div class="row">
+                <div class="large-6 large-offset-3 columns text-center start-trading">
+                    
+<div class="cta-wrap">
+    
+    <a href="https://app.maxtrades.co.uk?hl=en&amp;webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="button large cta" data-start-trading data-inner="" >Start Trading Now</a>
+</div>
+
+    <div>or try a <a href = "https://app.maxtrades.co.uk/NewUser?IsRealMode=False&forceDisplay=True&hl=en&webvisitid=0885a7d1-c391-4d10-a36a-430002eb2a52" class="link">FREE Demo Account</a></div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+</div>
+
+
+
+
+
+
+    <section class="callout large area colored colored-3 support-area" id="support-section">
+        <div class="side-buttons">
+            <a href="/FAQ" title="24/7 Support" class="button">
+                <span class="icon icon-users"></span>
+                <span>24/7 Support</span>
+            </a>
+        </div>
+            <div class="epc-banner epc-animate-in">
+                <a href="javascript:void(0)" class="epc-banner-in hide-for-small-only hide" data-epc-banner>
+                    <span>Professional Account</span>
+                    <span class="button">Learn More</span>
+                </a>
+            </div>
+
+        <div class="row side-section small-center text-center">
+            <div class="small-12 columns side-content">
+                <div>
+                    <h5>Need Help?</h5>
+                </div>
+                <div>
+                    <a href="/FAQ" class="button large hollow button-support"><span>24/7 Support</span><span class="icon icon-users"></span></a>
+                </div>
+            </div>
+        </div>
+        <div id="close-support-section"></div>
+
+    </section>
+<div id="animate-support-section"></div>
+
+
+<footer class="callout area">
+    <div class="row footer">
+        <div class="small-12 large-3 large-push-9 columns social">
+            <span>Follow Us On:</span>
+            <ul class="menu ">
+                <li><a href="https://www.facebook.com/maxtrades" title="Facebook" target="_blank"><span class="icon icon-facebook2"></span><span class="show-for-sr">Facebook</span></a></li>
+                <li><a href="https://www.twitter.com/Maxtrades title="Twitter" target="_blank"><span class="icon icon-twitter"></span><span class="show-for-sr">Twitter</span></a></li>
+                <li><a href="https://www.instagram.com/Maxtrades786/" title="Instagram" target="_blank"><span class="icon icon-instagram"></span><span class="show-for-sr">Instagram</span></a></li>
+            </ul>
+        </div>
+        <div class="small-12 large-9 large-pull-3 columns">
+            <ul class="menu footer-item">
+                    <li><a href = "/AboutUs" data-page="AboutUs"  > About Us</a></li>
+                    <li><a href = "/Help/ClientMoneyProtection" data-page="ClientMoneyProtection"  > Client Money Protection</a></li>
+                    <li><a href = "/Docs/Plus500CY/RiskDisclosureNotice.pdf" target="_blank" > Risk Warning</a></li>
+                    <li><a href = "/Help/TermsAndAgreements" data-page="TermsAndAgreements"  > Terms & Agreements</a></li>
+                    <li><a href = "/Utils/QuarterlyReport"  > Quarterly Report</a></li>
+            </ul>
+            <div class="footer-item footer-text">
+                    <div>
+                        <p><span>CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. <strong>80.6% of retail investor accounts lose money when trading CFDs with this provider.</strong> You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.</span></p>
+
+                    </div>
+                                    <div>
+                        <p><span>Due to regulatory obligations, bonuses are not applicable to MaxtradesCY Retail customers.
+<br/></span></p>
+                    </div>
+            </div>
+            <div class="footer-item footer-text">
+                <p><span>Max Trades is mainly compensated for its services through the Bid/Ask spread.&nbsp;Check our <a href="/Help/FeesCharges">Fees & Charges</a></span> </p>
+            </div>
+            <div class="footer-item footer-text">
+                <p>
+                        <span>Max Trades is a trademark of Max Trades(uk) Ltd.
+</span>
+                        <span>Max Trades (uk) Ltd. operates through the following subsidiaries:<br/></span>
+                        <span>Max tradesCY Ltd is authorised and regulated by the Cyprus Securities and Exchange Commission (Licence No.&nbsp;286/17). <br>
+Max TradesCY Ltd. is the issuer and seller of the financial products described or available on this website. Office Address: Max TradesCY Ltd, 1 Siafi Street | 3042 Limassol<br/>
+</span>
+                        <span>Max Trades(UK) Ltd. is authorised and regulated by the Financial Conduct Authority (FRN&nbsp;509986).<br/>
+</span>
+                        <span>Max TradesAU Pty Ltd holds AFSL&nbsp;#417786 issued by ASIC, FSP No.&nbsp;486086 issued by the FMA in New Zealand and Authorised Financial Services Provider&nbsp;#47586 issued by the FSCA in South Africa.<br/></span>
+                        <span>Max TradesSG Pte Ltd (UEN 201422286Z) holds a capital markets services license from the Monetary Authority of Singapore for dealing in capital markets products (License No. CMS100686-1). <br></span>
+                </p>
+            </div>
+                <div class="footer-item footer-text">
+                    <p>
+                        <span><a href="/Pro">Max Trades Pro</a></span>
+                    </p>
+                </div>
+            <div class="footer-item footer-info">
+                <div>
+                    <span class="icon-lock2"></span>
+                    <span class="lock">Secured By SSL</span>.&nbsp;
+                </div>
+                <div>
+                    <span>Copyright &copy; Max Trades. All rights reserved.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="sticky-footer-wrapper">
+
+        <section class="callout small area sticky-cookie sticky-container-fix is-hidden">
+            <div class="cookie-banner">
+                <div class="row">
+                    <div class="small-12 columns cookie-banner-content">
+                        <p>This website uses cookies necessary for website functionality, enhancing site navigation and experience, analysis of site usage and assistance in our marketing efforts. 
+To learn more, please see our <a href="http://www.maxtrades.co.uk/Docs/MaxtradesCY/CookiePolicy.pdf" target="_blank">Cookie Policy</a> and/or <a data-open="cookie-settings-modal" >Cookie Settings</a>.
+</p>
+                        <button type="button" class="button small cookie-button">Accept</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="show-for-medium">
+            
+
+<section class="callout small sticky-risk area sticky-container-fix ">
+    <div class="sticky-risk-banner">
+        <div class="row">
+            <div class="small-12 columns risk">
+                <p>CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. <strong>80.6% of retail investor accounts lose money when trading CFDs with this provider.</strong> You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+        </div>
+
+</div>
+    <div class="reveal reveal-modal small cookie-settings" id="cookie-settings-modal" data-reveal>
+        <div>
+            
+            <h5>Cookie Settings</h5>
+            <div class="row cookie-checkbox">
+                <input type="checkbox" id="toggleMarketingCookieSettingCheckBox" class="checkbox-spec" checked>
+                <label for="toggleMarketingCookieSettingCheckBox" class="checkbox-spec-label"><span>Targeting Cookies</span></label>
+            </div>
+            <p>
+                These cookies track browsing habits of your Max Trades website logs to deliver targeted (interest-based) advertising. They are also used to limit the number of times you see an ad and to measure the effectiveness of advertising campaigns. They are usually placed by advertising networks with our permission. They remember that you have visited our website and this information is shared with other organisations, such as publishers.
+            </p>
+            <div class="row column">
+                <div class="small-12 columns">
+                    <button data-close class="button cookie-send" type="submit" value="Submit" id="cookies-settings-send-button">Save Settings</button>
+                </div>
+            </div>
+        </div>
+        <button class="close-button" data-close aria-label="Tap to close" type="button">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <script src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Scripts/foundation.min.js"></script>
+    <script src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Scripts/general.js"></script>
+    <script src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Scripts/storagewrapper.min.js"></script>
+    <script src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Scripts/Rx-5.0.1.min.js"></script>
+    
+
+
+    <script>
+    Foundation.Drilldown.defaults.backButton =
+        '<li class="js-drilldown-back"><a>Back</a></li>';
+    $(document).foundation();
+    </script>
+
+    
+            <!-- Google Tag Manager -->
+            <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-RQS5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>    (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({ 'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-RQS5');
+            </script>
+            <!-- End Google Tag Manager -->
+            
+        <script>
+        var instrumentWidgetSearchConfig = {
+            "minLengthOfSearchTerm": 3,
+            "token" : "Vu4T9QnsENWpm3m7Px66huZVEBZTRA1C6wNDp6xiTWE7cZKMzDJsF9op7Ne8nmobs8tIsg1k2-XNNgdaTtwYkpID3S12oCq2-DnbIrQQy0aKJ63pMGZo3iWoPsHvpADDoRF3GKlHCdia-PROdjvl58R5qoGudcgp7CoeBvhKBlPkqbPVbLBdi2O9bLk3KOLyKgCQS6D67RTzQhmGlESb0TrJq-RTmFbbP8UEzUvNw5uCbFhpi4z-euTGfCNBO_TF-6wir4ZZhCxRX-mY3-3a5CJI1gwaX5IrPWRHJPN3-AbgZaDxEGt6oT-HjrpS3It4ApWT7sQo90d_kijxjz6H3qjdhddq6VKolb_y2WE9uFjgeoKRBXQ39pCGobsMKLomZkDnD79e3bSvX4zSgSMiSw5LDTNo8MY9cunZS_yocPqppT3AZNvUN2eLK0xce8j9ly_SD5vfT-VS8rZ6fzqRSobmdh311YgQ56JAjlGGI8RYgCaBIC6eSaHvZXuVWnS8q3FsBopyXIKFnwpdF7kBoS6DXI3kLu8dUigu2lMvLK8h7HrvKYZrqh6QW0SQ-ytB_zFnd2ElYj89ygQhzsDCh0yylYopBPWzsAsbAAfs_JkbUPSI3ontjoXCYDm0ux4IcnHkPEs5hUSis2y9ejboIpRn3bigsyEixO8D3AlkoPg9jWoslaqWu8K-3JQjlqq0PTBqnmSSXavDyadWB7IA8Swoo0aB4EfBU4kvUUcU8W-aIOoyUm56RGvL-i4zrH00hJn4-nVLxJkzkTZ8IDPN0ANeNotWQHxdEiusY8ZeV5UtuqNZ2YkuKnFU86A9hzV0x0TdF3HCshIH-5SlL_VfDaX4Mji21Mi7VfdqVqSqUrU",
+            "searchHandlerUrl": "/api/InstrumentsSearch",
+            "errorText": "An Error has occurred. Please try again later.",
+            "templateUrl": "/Instruments/__instSymb?searchTerm=__searchInst",
+            "placeholderSymbol": "__instSymb",
+            "placeholderId": "__searchInst",
+            "searchInstrumentsId": "searchInstrumentsInWidget",
+            "resultsId": "resultsInWidget"
+
+        }
+    </script>
+    <script src="https://cdn-main.plus500.com/1.0.0.80595/Resources/Scripts/instrumentsearch.js"></script>
+    <script>
+        new SearchHandler("instrumentWidgetSearchConfig").init();
+    </script>
+    <script src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Scripts/widgets/FeedsUpdaterChangePrcnt.js"></script>
+    <script>
+        $(function() {
+            // define widget object with all it's html properties
+            var widget = {
+                tab: 'nav a',
+                tabPanel: '.tabPanel',
+                instrumentPrefix: '.inst_',
+                buyPrice: '.buy span',
+                sellPrice: '.sell span',
+                changeLabel: '.change span',
+                priceUpClass: 'green',
+                priceDownClass: 'red',
+                precentUpClass: 'greenChange',
+                precentDownClass: 'redChange',
+                dataElement: 'input',
+                features: {
+                    buy: true,
+                    sell: true,
+                    change: true,
+                    highLow: false
+                },
+                feedUpdateUrl: '/api/LiveData/FeedsUpdates'
+            };
+
+            var panelFirstCategory = $(widget.tabPanel + '[data-tab-id="tab_MostPopular"]');
+            window.widgetUpdateRate = 1;
+            // init first category
+            initWidget('2', panelFirstCategory, panelFirstCategory.find(widget.dataElement)
+                .data('instruments'),
+                widget,
+                false);
+
+            // attach tab actions
+            $(widget.tab).click(function() {
+                if (!$(this).hasClass('selected')) { // prevent click abuse
+                    var tabPanel = $(widget.tabPanel +
+                        '[data-tab-id="' +
+                        $(this).data('tab-id') +
+                        '"]'); // get tab panel
+                    var instruments = tabPanel.find(widget.dataElement).data('instruments'); // get the instruments
+                    initWidget('2', tabPanel, instruments, widget, true);
+                }
+            });
+        });
+    </script>
+
+    <script>
+        $('.has-tip').each(function() {
+                $(this).attr('title',
+                    $(this).data('tooltip-title')
+                    
+                );
+            }
+        ).foundation();
+    </script>
+
+    <script>
+        //Additional class for image animation
+        var waitingForImageSection1 = true;
+        $(window).scroll(function () {
+            if (waitingForImageSection1 && $("#animate-image1").isOnScreen()) {
+                waitingForImageSection1 = false;
+                $("#image1").addClass("animate-image");
+            }
+        });
+    </script>
+
+         <script>
+             
+             var videoPlayer;
+
+             function onYouTubeIframeAPIReady() {
+                 videoPlayer = new YT.Player('watch-video-iframe',
+                     {
+                         videoId: 'XVJHaqWs3FY',
+                         events: {
+                             'onReady': onPlayerReady,
+                         },
+                         origin: 'www.maxtrades.co.uk'
+                     });
+             }
+
+             function onPlayerReady(event) {
+                 event.target.setVolume(100);
+             }
+
+
+             $("#watch-video").on('open.zf.reveal',
+                 function () {
+                     if (typeof videoPlayer !== 'undefined') {
+                         videoPlayer.playVideo();
+                     }
+                 });
+             $("#watch-video").on('closed.zf.reveal',
+                 function () {
+                     if (typeof videoPlayer !== 'undefined') {
+                         videoPlayer.pauseVideo();
+                    }
+                 });
+         </script>
+
+    <script>
+        //Additional class for image animation
+        var waitingForImageSection2 = true;
+        var waitingForTheExploreSectionOnScreen = true;
+        $(window).scroll(function () {
+            if (waitingForImageSection2 && $("#animate-image2").isOnScreen()) {
+                waitingForImageSection2 = false;
+                $("#image2").addClass("animate-image");
+            }
+            if (waitingForTheExploreSectionOnScreen && $("#explore-area").isOnScreen()) {
+                waitingForTheExploreSectionOnScreen = false;
+                var s = document.createElement("script");
+                s.type = "text/javascript";
+                s.src = "https://www.youtube.com/iframe_api";
+                s.async = true;
+                $("head").append(s);
+                $("#watch-video-iframe").attr('src', $("#watch-video-iframe").attr('data-src'));
+            }
+        });
+    </script>
+
+    <script>
+        //Additional class for image animation
+        var waitingForImageSection3 = true;
+        $(window).scroll(function () {
+            if (waitingForImageSection3 && $("#animate-image3").isOnScreen()) {
+                waitingForImageSection3 = false;
+                $("#image3").addClass("animate-image");
+            }
+        });
+    </script>
+
+    <script>
+        var waitingForNumbers = true;       
+        $(window).scroll(function() {
+            if (waitingForNumbers && $("#run-numbers").isOnScreen()) {
+                waitingForNumbers = false;
+                $('.count').each(function() {
+                    var number = $(this);
+                    var more = $(".more[data-index='" + number.data("index") + "']");
+                    more.addClass('invisible'); // built-in foundation class. fixing unwanted move after number appears
+                    jQuery({ Counter: number.text() / 4 }).animate({ Counter: number.text() },
+                    {
+                        duration: 2000,
+                        easing: 'swing',
+                        step: function(i) {
+                            number.text(Math.ceil(i));
+                        },
+                        complete: function () {
+                            more.hide().removeClass('invisible').fadeIn(600);
+                        }
+                    });
+                });
+            }
+        });
+    </script>
+
+    <script type="text/javascript">
+        var platformsWrapper = $('.platforms'),
+            platformsLength = platformsWrapper.children('.item').length,
+            platformsDivClasses;
+        switch (platformsLength) {
+            case 6:
+                platformsDivClasses = 'small-up-2 medium-up-3 large-up-6 platforms-6';
+                break;
+            case 5:
+                platformsDivClasses = 'small-up-2 medium-up-3 large-up-5 platforms-5';
+                break;
+            case 4:
+                platformsDivClasses = 'small-up-2 medium-up-4 large-up-4 platforms-4';
+                break;
+            
+            default:
+                platformsDivClasses = 'small-up-2 medium-up-3 large-up-5 platforms-5'
+                break;
+        }
+        platformsWrapper.attr('class', 'row ' + platformsDivClasses + ' platforms');
+    </script>
+
+    <script>
+        window.onload = function () {
+            $(".main-image").addClass("main-anim");
+            $(".currency-icon").addClass("move");
+            $(".flag").addClass("move");
+        };
+    </script>
+
+    <script>
+
+        var instrumentSearchConfig = {
+            "minLengthOfSearchTerm": 3,
+            "token" : "Vu4T9QnsENWpm3m7Px66huZVEBZTRA1C6wNDp6xiTWE7cZKMzDJsF9op7Ne8nmobs8tIsg1k2-XNNgdaTtwYkpID3S12oCq2-DnbIrQQy0aKJ63pMGZo3iWoPsHvpADDoRF3GKlHCdia-PROdjvl58R5qoGudcgp7CoeBvhKBlPkqbPVbLBdi2O9bLk3KOLyKgCQS6D67RTzQhmGlESb0TrJq-RTmFbbP8UEzUvNw5uCbFhpi4z-euTGfCNBO_TF-6wir4ZZhCxRX-mY3-3a5CJI1gwaX5IrPWRHJPN3-AbgZaDxEGt6oT-HjrpS3It4ApWT7sQo90d_kijxjz6H3qjdhddq6VKolb_y2WE9uFjgeoKRBXQ39pCGobsMKLomZkDnD79e3bSvX4zSgSMiSw5LDTNo8MY9cunZS_yocPqppT3AZNvUN2eLK0xce8j9ly_SD5vfT-VS8rZ6fzqRSobmdh311YgQ56JAjlGGI8RYgCaBIC6eSaHvZXuVWnS8q3FsBopyXIKFnwpdF7kBoS6DXI3kLu8dUigu2lMvLK8h7HrvKYZrqh6QW0SQ-ytB_zFnd2ElYj89ygQhzsDCh0yylYopBPWzsAsbAAfs_JkbUPSI3ontjoXCYDm0ux4IcnHkPEs5hUSis2y9ejboIpRn3bigsyEixO8D3AlkoPg9jWoslaqWu8K-3JQjlqq0PTBqnmSSXavDyadWB7IA8Swoo0aB4EfBU4kvUUcU8W-aIOoyUm56RGvL-i4zrH00hJn4-nVLxJkzkTZ8IDPN0ANeNotWQHxdEiusY8ZeV5UtuqNZ2YkuKnFU86A9hzV0x0TdF3HCshIH-5SlL_VfDaX4Mji21Mi7VfdqVqSqUrU",
+            "searchHandlerUrl": "/api/InstrumentsSearch",
+            "errorText": "An Error has occurred. Please try again later.",
+            "templateUrl": "/Instruments/__instSymb?searchTerm=__searchInst",
+            "placeholderSymbol": "__instSymb",
+            "placeholderId": "__searchInst",
+            "searchInstrumentsId": "searchInstruments",
+            "resultsId": "results"
+        }
+    </script>
+    <script src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Scripts/instrumentsearch.js"></script>
+    <script src="https://cdn-main.maxtrades.co.uk/1.0.0.80595/Resources/Scripts/header/header.js"></script>
+    <script>
+        new SearchHandler("instrumentSearchConfig").init();
+    </script>
+
+    <script>
+        var setSupportIconPosition = function () {
+            $('#support-section .side-buttons, #support-section .epc-banner').css({ bottom: $('.sticky-footer-wrapper').outerHeight() });
+        }
+        var setFooterPaddingBottom = function () {
+            $('footer.callout.area').css({ paddingBottom: $('.sticky-footer-wrapper').height() })
+        }
+
+        setFooterPaddingBottom();
+
+        $(window).resize(function () {
+            setFooterPaddingBottom();
+        });
+    </script>
+        <script>
+        
+        var EPCbannerElement = $('.epc-section.hide-for-medium');
+        var isEPCbannerVisible = EPCbannerElement.length === 1 ? true : false;
+
+        function fixEPCbannerMargin () {
+            $headerHeight = $('.header-for-small').parent().outerHeight();
+            EPCbannerElement.css({ marginTop: $headerHeight });
+        };
+
+        if (isEPCbannerVisible) fixEPCbannerMargin();
+        </script>
+        <script>
+            var animateSupport = "support-box";
+            var waitingForSupportSection = true;
+            $(window).scroll(function () {
+                if (waitingForSupportSection && ($("#animate-support-section").isOnScreen()) || ($("#support-section")).isOnScreen()) {
+                    waitingForSupportSection = false;
+                    $("#support-section").addClass(animateSupport);
+                    $(".side-buttons").addClass("animate-out");
+                    //$('.sticky').foundation('_calc', true);
+                } else if (!waitingForSupportSection && $("#support-section").hasClass(animateSupport) && !$("#close-support-section").isOnScreen() && !$("footer").isOnScreen()) {
+                    waitingForSupportSection = true;
+                    $("#support-section").removeClass(animateSupport);
+                    $(".side-buttons").removeClass("animate-out");
+                    //$('.sticky').foundation('_calc', true);
+                }
+            });
+
+            $(window).resize(function () {
+                setSupportIconPosition(); // reposition the support icon when window scroll occurs
+            });
+            $(document).ready(function () {
+                setSupportIconPosition();
+            });
+        </script>
+        <script>
+            function CookieBannerReappear() { $(".sticky-cookie").removeClass("is-hidden"); $('.cookie-banner').removeClass("cookie-out is-hidden") }
+            if (KeyValueStore.get("_cookies_usage_", false) == null) {
+                sendAnalyticsEvent('MarketingCookiesConsent', 'ShowBannerUnique');
+                CookieBannerReappear();
+            }
+            $(".cookie-button").click(removeCookieBanner);
+            $("#cookies-settings-send-button").click(removeCookieBanner);
+            $('a[data-open="cookie-settings-modal"]').click(function() {
+                sendAnalyticsEvent('MarketingCookiesConsent', 'Settings');
+            });
+            function removeCookieBanner() {
+                KeyValueStore.set("_cookies_usage_", true);
+                var checkbox = $("#toggleMarketingCookieSettingCheckBox");
+                if (checkbox.length === 0 || checkbox[0].checked) {
+                    KeyValueStore.set("_mccos_", true);
+                    sendAnalyticsEvent('MarketingCookiesConsent', 'Accept');
+                    fireTrackingIfConsent();
+                } else {
+                    KeyValueStore.set("_mccos_", false);
+                    sendAnalyticsEvent('MarketingCookiesConsent', 'Unchecked' );
+                }
+                sendAnalyticsEvent('MarketingCookiesConsent', 'Save');
+                $('.sticky-cookie').addClass("sticky-off");
+                $('.cookie-banner').addClass("cookie-out").one("webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend",
+                    function() {
+                        $(this).addClass("is-hidden");
+                        if (setSupportIconPosition != null) setSupportIconPosition();
+                        if (setFooterPaddingBottom != null) setFooterPaddingBottom();
+                    });
+                }
+        </script>
+
+
+
+            <script>
+                (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-7008980-1', 'auto');
+                ga('send', 'pageview');
+            </script>
+            <script>fireTrackingIfConsent();</script>
+        </body>
+</html>
